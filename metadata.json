@@ -1,0 +1,6 @@
+{
+  "name": "P2P Connect",
+  "description": "Serverless peer-to-peer communication app with dual-device credential pairing, persistent status notification, 15-day IMEI lock, voice/video calls, chat & file sharing, and drop, angry tone, and power button detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

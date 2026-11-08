@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">P2P Connect</string>
+    <string name="notification_channel_name">P2P Status Service</string>
+    <string name="notification_channel_desc">Persistent status for P2P connection</string>
+    <string name="pairing_successful">Pairing Successful</string>
+    <string name="pairing_active_desc">P2P connection is active and secured</string>
+</resources>
